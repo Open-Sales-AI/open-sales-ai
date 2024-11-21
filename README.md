@@ -1,1 +1,1 @@
-# open-sales-ai
+# Open-Sales-AI
