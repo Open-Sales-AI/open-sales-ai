@@ -1,6 +1,3 @@
-Here's an improved version of the document tailored for better usability in Retrieval-Augmented Generation (RAG). I've added more details, highlighted key sections for better chunking, and included additional examples and cross-references to enhance retrieval effectiveness.
-
----
 
 # **Sizing Kubeflow for Kubernetes Clusters**
 
